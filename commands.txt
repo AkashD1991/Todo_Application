@@ -1,0 +1,15 @@
+1) npm init
+2) npm i --save express morgan body-parser cors
+3) create app.js file with require some depende
+4) create 2 root folder 1) routes 2) controllers
+5) create files in both folders with same name(users)
+6) npm i express-promise-router
+7) create helpers folder with routeHelper.js file to validate request(joi)
+8) npm i joi install joi and joi-age 
+9) npm run start-dev
+10) mongodb npm i mongoose
+11) to run mongodb 
+C:/Users/DELL/Desktop/Wishtree/mongodb/bin/mongod.exe --dbpath=C:\Users\DELL\Desktop\Wishtree\mongodb-data
+12) npm i randomstring
+13) to send email use nodemailer npm i nodemailer
+14) npm i bcryptjs to decrupt/encrypt password
